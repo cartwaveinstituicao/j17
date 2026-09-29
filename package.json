@@ -1,0 +1,12 @@
+{
+  "name": "loanbrasil-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.13.1",
+  "scripts": {
+    "dev": "node server.js",
+    "check": "node --check server.js && node --check public/script.js",
+    "build": "node build.mjs"
+  }
+}

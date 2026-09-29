@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "LOAN BRASIL | Sociedade de Crédito Direto" },
+    { "path": "/privacy.html", "title": "Política de Privacidade | LOAN BRASIL" }
+  ]
+}
